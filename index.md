@@ -59,4 +59,8 @@
 - [x] Make coffee.
 - [ ] Walk the dog.
 
+- [louw959](https://github.com/louw959)
+- [x] Participate in opensource projects
+- [x] Job Hunting
+- [ ] Studying
 ### <-- Contributor END
